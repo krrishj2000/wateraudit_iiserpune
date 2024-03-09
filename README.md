@@ -1,5 +1,7 @@
 # wateraudit_iiserpune
-A common place for all the codes, data, and resources for water audit.
+A common place for all the codes, data, and resources for water audit done in 2023 in IISER Pune. The main document can be found here: https://docs.google.com/document/d/1EbEob8sCBHufjfS14gvRiVgIrXX2FhR1pqnfegX5UsA/edit
+
+
 The only files you need are Raw data, Code for processing raw data (to make the main data), and the main data used for all analysis.
 
 
